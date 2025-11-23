@@ -1,12 +1,12 @@
 ---
-title:  Dockerでデータ無事破損
+title: Dockerでデータ無事破損
 tags:
-  - 'Docker'
-  - 'Elasticsearch'
-  - '本番環境でやらかしたこと'
+  - Elasticsearch
+  - Docker
+  - 本番環境でやらかしたこと
 private: true
-updated_at: ''
-id: null
+updated_at: '2025-11-23T23:48:59+09:00'
+id: 505025e1101716fb1801
 organization_url_name: null
 slide: false
 ignorePublish: false
