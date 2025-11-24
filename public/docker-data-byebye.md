@@ -11,6 +11,9 @@ organization_url_name: null
 slide: false
 ignorePublish: false
 ---
+:::note info
+この記事は[本番環境などでやらかしちゃった人 Advent Calendar 2025](https://qiita.com/advent-calendar/2025/yarakashi)の11日目の内容です（忘れてなければ）
+:::
 # Dockerでcomposeをしたときにデータを破損してしまった話
 
 こんにちは、おかかです。
