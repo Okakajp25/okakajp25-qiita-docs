@@ -1,14 +1,14 @@
 ---
 title: ConoHaでVPSを使ってログをためてみよう
 tags:
-  - 'ConoHa'
-  - 'VPS'
-  - 'Docker'
-  - 'Elasticsearch'
-  - 'Oracle'
+  - oracle
+  - vps
+  - Elasticsearch
+  - Docker
+  - Conoha
 private: true
-updated_at: ''
-id: null
+updated_at: '2025-12-08T21:25:13+09:00'
+id: 59b320cb286262fe78eb
 organization_url_name: null
 slide: false
 ignorePublish: false
