@@ -1,11 +1,11 @@
 ---
 title: 本番と開発を間違えた話
 tags:
-  - aws
+  - AWS
   - gce
   - 本番環境でやらかしたこと
 private: true
-updated_at: '2025-12-08T22:57:08+09:00'
+updated_at: '2025-12-09T19:15:03+09:00'
 id: 505025e1101716fb1801
 organization_url_name: null
 slide: false
